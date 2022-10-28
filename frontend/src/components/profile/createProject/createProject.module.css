@@ -1,0 +1,18 @@
+.create_body{
+    width: 90%;
+    margin: 20px auto;
+    box-sizing: border-box;
+    padding: 20px 80px;
+    /* background-color: rosybrown; */
+}
+
+.create_body div {
+    margin: 10px;
+}
+
+.create_body_input{
+    margin-left: 5px;
+    padding: 5px;
+    border: none;
+    border-bottom: 1px solid black;
+}

@@ -1,0 +1,94 @@
+.home_need_content{
+    width: 60%;
+    height: 275px;
+    background-color: rgb(255,210,0);
+    margin: auto;
+    margin-top: 20px;
+    padding: 20px 40px;
+    border-radius: 10px;
+    /* color: red; */
+}
+
+.home_need_content:hover{
+    box-shadow: 0 0 5px 2px #ccc;
+    background-color: rgb(245,200,0);
+    cursor: pointer;
+}
+
+.home_text{
+    padding: 0px;
+    vertical-align: middle;
+    width: 50%;
+    display: inline-block;
+    text-align: center;
+}
+
+.home_text_first{
+    position: relative;
+    left: 4%;
+}
+
+.home_text1{
+    /* text-align: center; */
+    display: inline-block;
+    width: max-content;
+    font-size: 60px;
+}
+
+.home_text2{
+    /* text-align: center; */
+    display: inline-block;
+    width: max-content;
+    font-size: 30px;
+}
+
+.home_invest_svg{
+    width: 300px;
+    height: 275px;
+}
+
+.home_feed_header{
+    width: 80%;
+    margin: auto;
+}
+
+.home_feed_body{
+    /* width: max-content; */
+    max-width: 90%;
+    margin: auto;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.home_feed_search {
+    width: 45%;
+    margin: 10px;
+    /* margin-left: 100px; */
+    display: inline-block;
+}
+
+.home_feed_search input {
+    border: none;
+    font-size: large;
+    width: 95%;
+    background-color: #ffffff;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.home_feed_filter{
+    display: inline-block;
+}
+
+.home_feed_filter button{
+    padding: 14px 30px;
+    border-radius: 5px;
+    font-size: larger;
+    border: none;
+    background-color: white;
+}
+
+.home_feed_content{
+    margin: auto;
+    width: 100%;
+}

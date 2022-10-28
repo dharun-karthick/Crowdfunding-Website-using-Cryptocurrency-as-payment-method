@@ -1,0 +1,44 @@
+.seeker_box{
+    width: 100%;
+    box-sizing: border-box;
+    padding: 60px 40px;
+    background-color: white;
+    margin-top: 10px;
+}
+
+.seeker_disable{
+    filter: brightness(50%);
+}
+
+.seeker_stage_btn{
+    margin: 5px;
+    padding: 3px 5px;
+}
+
+.seeker_file_link{
+    padding: 10px;
+    text-decoration: underline;
+}
+
+.mapBox{
+    margin: 20px auto;
+}
+
+.mapContainer{
+    text-align: center;
+}
+
+.docImage{
+    width: 640px;
+    height: auto;
+    margin: 10px auto;
+    display: block;
+}
+
+.mapKey{
+    display: inline-block;
+    /* margin: 10px auto 20px auto; */
+    margin-left: 20px;
+    position: relative;
+    bottom: 180px;
+}

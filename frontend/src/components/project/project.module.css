@@ -1,0 +1,55 @@
+.project_body{
+    width: 70% !important;
+    /* padding: 20px 20px; */
+    background-color: white !important;
+    margin: auto !important;
+    margin-top: 2% !important;
+    border-radius: 8px !important;
+}
+
+.project_cover_img{
+    border-top-left-radius: 8px !important;
+    border-top-right-radius: 8px !important;
+    margin-bottom: -5px !important;
+    width: 100% !important;
+    height: 350px !important;
+    object-fit: cover !important;
+    filter:contrast(80%) brightness(70%) !important;
+}
+
+.project_content{
+    border-bottom-left-radius: 8px !important;
+    border-bottom-right-radius: 8px !important;
+    padding: 20px 30px !important;
+    background-color: rgb(230,185,0) !important;
+    /* color: white; */
+}
+
+.project_content p{
+    /* font-weight: bold; */
+    font-size: larger !important;
+    margin: 5px !important;
+}
+
+.project_details{
+    width: 70% !important;
+    padding: 20px 0px !important;
+    /* background-color: white; */
+    margin: 20px auto !important;
+}
+.project_project_details{
+    background-color: white !important;
+    padding: 20px !important;
+    margin-right: 1% !important;
+    /* margin: 0 1.0%; */
+    display: inline-block !important;
+    width: 46% !important;
+}
+.project_seeker_details{
+    background-color: white !important;
+    padding: 20px !important;
+    margin-left: 1% !important;
+    /* margin: 0 1.0%; */
+    display: inline-block !important;    
+    width: 46% !important;
+}

@@ -1,0 +1,31 @@
+.prcard_box{
+    width: 100%;
+    box-sizing: border-box;
+    padding: 60px 40px;
+    background-color: white;
+}
+
+.prcard_img{
+    /* margin-left: 7%; */
+    border-radius: 5px;
+    width: 300px;
+    border: 1px solid #ccc;
+}
+.prcard_img_box{
+    width: max-content;
+    /* display: inline-block; */
+}
+
+.prcard_box h1{
+    margin: 5px;
+    width: max-content;
+}
+
+.prcard_box h4{
+    margin: 5px;
+}
+
+.prcard_box tr {
+    height: max-content;
+    margin: 0;
+}
